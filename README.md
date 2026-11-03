@@ -7,6 +7,21 @@ An ultra-fast, minimalist, privacy-first Android application built with **Kotlin
 
 ---
 
+## 💡 About This Project — Vibe-Coded & Built Responsibly
+
+> *"I needed an effortless way to clean up the thousands of cluttered photos and videos accumulating in my own phone gallery without dealing with bloated, ad-ridden apps, cloud sync traps, or clunky UIs."*
+
+**PhotoSorter** started as my personal project to solve that exact everyday problem. I built and refined this app through **vibe coding** — focusing deeply on natural user flow, seamless gesture ergonomics, and rapid iterative refinement until every swipe, preview, and transition felt completely effortless.
+
+At the same time, it is engineered with **zero tolerance for policy violations or privacy compromises**:
+- **Zero Privacy Violations**: Strictly 100% offline with zero internet permissions. It never collects, stores, or transmits personal data.
+- **Zero OS or Store Violations**: Fully compliant with modern Android storage guidelines — using scoped media permissions and native OS-level confirmation sheets for safe deletion.
+- **Zero Friction**: No sign-ins, no subscription paywalls, no analytics trackers — just pure, distraction-free gallery cleaning.
+
+It stands as a showcase of modern development: combining rapid, high-velocity creative flow with rock-solid, privacy-first software principles.
+
+---
+
 ## 🔒 Privacy & Security First
 
 PhotoSorter is built with a zero-trust, strictly offline privacy architecture:
